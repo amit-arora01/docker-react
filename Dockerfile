@@ -12,4 +12,6 @@ RUN npm run build
 
 FROM nginx
 
-COPY --from=builder /app/build /usr/share/nginx/html
+COPY --from=builder /app/build /usr/share/nginx/amit-arora01
+/
+docker-react
