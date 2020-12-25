@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          This text loads automatically 
+          Learn React
         </a>
       </header>
     </div>
